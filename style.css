@@ -13,7 +13,7 @@
 
 header {
   display:block;
-  width:98vw;
+  width: 100vw;
   background-color: var(--primary);
   color:white;
   text-align:center;
@@ -39,7 +39,7 @@ header {
 
 .text {
   height: 200px;
-  width:50vw;
+  width:100vw;
   margin-left:6em;
   margin-bottom: 15em;
   text-align: left;
